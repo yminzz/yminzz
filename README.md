@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Kathleen, tenho 19 anos e moro em São Paulo-SP. Atualmente curso Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do Github.
+Me chamo Kathleen, tenho 19 anos e moro em São Paulo-SP. Atualmente curso Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia, curiosa sobre Hardware e compartilho meu conhecimento através do Github.
  
 #
 
@@ -83,7 +83,7 @@ Me chamo Kathleen, tenho 19 anos e moro em São Paulo-SP. Atualmente curso Anál
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=yminzz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
