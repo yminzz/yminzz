@@ -6,7 +6,9 @@
 
 #
 
-Me chamo Kathleen, tenho 19 anos e moro em São Paulo-SP. Atualmente curso Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia, curiosa sobre Hardware e compartilho meu conhecimento através do Github.
+Me chamo Kathleen, tenho 19 anos e moro em São Paulo-SP, sou estudante de Análise e Desenvolvimento de Sistemas na UNICID, interessada em tecnologia, desenvolvimento de software e hardware.
+
+Atualmente, estou desenvolvendo meus conhecimentos e construindo projetos para colocar em prática o que aprendo durante minha formação.
  
 #
 
